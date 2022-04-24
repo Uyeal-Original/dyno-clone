@@ -1,25 +1,24 @@
-
 module.exports = {
     "registercommands" : false,
-     "token": "ODc0MzM4NTExNDY0MDQ2NjIy.YRFhMQ.HXL3mA8RQ6ljBNxXQQ8VKYmRN8k",
-    "imageapi": "81ec44aee6ccbb692dabd2eb0e1454b7f0c5ef1dd805a939a291127eb26b0f5af5bb4a94f095bceade9417c25292e746504e378f2d0f3aa2864c3d775c32e76a",
-    "ownerID": ["720632216236851260", "780029934163722280"],
-"prefix": ".",
+     "token":"OTUzOTQ2NzQ3NTc3NzAwMzYy.YjL-JA.Hc196CdzRkBR1amTIfaia3Ol0WI",//Bot Token Here
+    "imageapi": "bb03f373caa534fcfcbaeae177a65134f44a6e57ba7a7b098be273867b376d8a677ddae3c23c6ded4fec8288573945e8c3483689deb13f229376ad4b5b60231d",
+    "ownerID": ["841580243512066078"],//Your Id Goes Here
+"prefix": ":",//set any prefix u want to
 "chat": {
         "url": "http://api.brainshop.ai/get?bid=155777&key=O0Rla6COZJ8XSGPJ&uid=[uid]&msg=[msg]",
         "bid": "155777",
         "key": "O0Rla6COZJ8XSGPJ",
-        "uid": "nothing."
+        "uid": "nothing."//nothing else to edit    
     },
     "bid": "874338511464046622",
 
-"api": "AIzaSyCX8Af4p3kAJpjn4189RV2Z8hvMFAMbKoY",
-"youtubeAPI": "AIzaSyCX8Af4p3kAJpjn4189RV2Z8hvMFAMbKoY",
-mainprefix: ".",
-"owner": "G U D B O Y",
-"mongourl": "mongodb+srv://bot-list-lol:SzRpE6eXNegtLRvs@cluster0.jme3y.mongodb.net/nothingxd?retryWrites=true&w=majority",
+"api": "AIzaSyAAg3GHxipuyDz7KsCAv434yoFT56TR9LQ",
+"youtubeAPI": "AIzaSyAAg3GHxipuyDz7KsCAv434yoFT56TR9LQ",
+mainprefix: ":",
+"owner": "Edox",
+"mongourl": "mongodb+srv://099:099@cluster0.kjeqb.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
 "secret": "TKDHwzyl2iieCPgq9mp4O5gttwqEOm1c",
- "dashboardURL": "https://dyno-clone.dhvitop.repl.co",
+ "dashboardURL": "if you have",
 defaultjoinmessage: "{user} Joined Invited By {Inviter} (Inviter Invites: {inv})",
 defaultleavemessage: "{user} Left, Invited by {inviter}",
   basiclang: "en", //The basic language of the bot, "fr" for French and "en" for English
@@ -43,7 +42,7 @@ defaultleavemessage: "{user} Left, Invited by {inviter}",
     grole: "Giveaway Manager", //If the member doesn't have permission to handle messages he can still use the giveaways commands if he has the role configured right here
 
     auth: {
-        support: "XXX", //The link of your Discord server
+        support: "https://discord.gg/UA6sSqKXpZ", //The link of your Discord server
         dperms: "8" //The permissions that the bot asks on we want to add it on a Discord server (8 = moderator)
     },
 } 
